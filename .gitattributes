@@ -1,0 +1,4 @@
+/project/packaging/README.ko.txt -text
+/project/packaging/patch-spec.json -text
+/runtime/windows/KoreanPatch/** -text
+/runtime/windows/build_package.py -text

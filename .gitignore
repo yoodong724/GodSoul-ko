@@ -1,0 +1,15 @@
+*.pak
+*.locres
+*.uasset
+*.uexp
+*.ubulk
+*.ufont
+*.exe
+*.dll
+*.zip
+*.7z
+*.bin
+__pycache__/
+/payload/
+/scratch/
+/dist/
