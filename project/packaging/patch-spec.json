@@ -1,7 +1,7 @@
 {
   "format": "koreanpatch-windows-v2/spec-v1",
   "game_id": "godsoul-steam-1213300",
-  "patch_id": "godsoul-ko-26979880-rc1",
+  "patch_id": "godsoul-ko-26991245",
   "requirements": [
     "GodSoul.exe",
     "GODSOUL/Binaries/Win64/GodSoul-Win64-Shipping.exe",
@@ -21,8 +21,8 @@
     "locale": "일본어(ja) 슬롯 선택 후 게임 완전 재시작"
   },
   "verification_scope": {
-    "steam_build": "26979880",
-    "internal_version": "1.98",
+    "steam_build": "26991245",
+    "internal_version": "1.99",
     "payload": "검수한 번역으로 재생성하고 파일별 SHA-256을 대조한 일본어 슬롯 대체 Pak",
     "limitations": "실게임 확인 범위는 배포 릴리스에 기록한다."
   }
